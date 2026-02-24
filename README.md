@@ -47,9 +47,9 @@ me.say_hi()
 </td>
 <td width="50%" valign="top">
 
-## 📈 Coding Activity
+## 💻 Keep Coding!
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sulavg50-ux&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm1iM2ZtdWloNzZpODg0YmFoYTM3NmNkcWoxYmhoOTd6MDgza2p4MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cnhpl4IeYgU7MCBdV2/giphy.gif" width="100%" />
 
 </td>
 </tr>
@@ -116,20 +116,12 @@ me.say_hi()
 
 ---
 
-## 📅 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sulavg50-ux&theme=tokyo-night&hide_border=true&area=true&area_color=a78bfa&line=a78bfa&point=ffffff" width="100%"/>
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-sulavg50--ux-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sulavg50-ux)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sulavg50-ux)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulav-giri-1700993b3)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sulavg50-ux)
 
 </div>
