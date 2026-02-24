@@ -116,6 +116,14 @@ me.say_hi()
 
 ---
 
+## 📅 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sulavg50-ux&theme=tokyo-night&hide_border=true&area=true&area_color=a78bfa&line=a78bfa&point=ffffff" width="100%"/>
+</div>
+
+---
+
 ## 🤝 Let's Connect!
 
 <div align="center">
