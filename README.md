@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Learning%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Django%20%7C%20Data%20Science&descAlignY=60&descSize=20&descColor=a78bfa"/>
 
 <!-- Typing Animation -->
-<a href="https://github.com/your-username">
+<a href="https://github.com/sulavg50-ux">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=500&lines=print(%22Hello%2C+World!%22);Learning+Python+%F0%9F%90%8D;Building+with+Django+%F0%9F%8C%90;Exploring+Data+Science+%F0%9F%93%8A;Keep+Growing+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
@@ -49,7 +49,7 @@ me.say_hi()
 
 ## 📈 Coding Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sulavg50-ux&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </td>
 </tr>
@@ -83,14 +83,14 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sulavg50-ux&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulavg50-ux&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sulavg50-ux&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
 </div>
 
 ---
@@ -98,7 +98,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sulavg50-ux&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 </div>
 
 ---
@@ -119,7 +119,7 @@ me.say_hi()
 ## 📅 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true&area=true&area_color=a78bfa&line=a78bfa&point=ffffff" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sulavg50-ux&theme=tokyo-night&hide_border=true&area=true&area_color=a78bfa&line=a78bfa&point=ffffff" width="100%"/>
 </div>
 
 ---
@@ -128,9 +128,9 @@ me.say_hi()
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-sulavg50--ux-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sulavg50-ux)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sulavg50-ux)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sulavg50-ux)
 
 </div>
 
@@ -141,7 +141,7 @@ me.say_hi()
 <div align="center">
 
 <!-- After setting up GitHub Actions, replace the src below with your actual snake gif URL -->
-<img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/sulavg50-ux/sulavg50-ux/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
 
@@ -150,7 +150,7 @@ me.say_hi()
 <div align="center">
 
 ### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=sulavg50-ux&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
