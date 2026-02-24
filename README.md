@@ -127,53 +127,6 @@ me.say_hi()
   </picture>
 </div>
 
-<details>
-<summary>⚙️ <b>How to activate the Snake (click to expand)</b></summary>
-
-<br/>
-
-**Step 1:** In your `sulavg50-ux` repo → **Settings → Actions → General** → set **Workflow permissions** to **Read and write permissions** → Save
-
-**Step 2:** Create file `.github/workflows/snake.yml` and paste:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Step 3:** Go to **Actions tab** → click **Generate Snake** → **Run workflow** ✅
-
-</details>
 
 ---
 
