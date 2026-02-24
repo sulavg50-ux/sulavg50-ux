@@ -9,13 +9,6 @@
 </a>
 
 <br/>
-
-<!-- Snake Animation (requires GitHub Actions setup - instructions below) -->
-<!-- 
-  To enable the snake animation, add this to .github/workflows/snake.yml:
-  See instructions at bottom of this file
--->
-
 <br/>
 
 <!-- About Me Section -->
@@ -28,7 +21,7 @@
 ```python
 class LearningDeveloper:
     def __init__(self):
-        self.name     = "Your Name"
+        self.name     = "Sulav Giri"
         self.role     = "Learning Developer"
         self.learning = [
             "Python 🐍",
@@ -124,19 +117,26 @@ me.say_hi()
 
 ---
 
-## 🤝 Let's Connect!
+## 🐍 Contribution Snake
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-sulavg50--ux-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sulavg50-ux)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulav-giri-1700993b3)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sulavg50-ux)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sulavg50-ux/sulavg50-ux/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sulavg50-ux/sulavg50-ux/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/sulavg50-ux/sulavg50-ux/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
----
+<details>
+<summary>⚙️ <b>How to activate the Snake (click to expand)</b></summary>
 
-## 🐍 My Contributions Snake
+<br/>
+
+**Step 1:** In your `sulavg50-ux` repo → **Settings → Actions → General** → set **Workflow permissions** to **Read and write permissions** → Save
+
+**Step 2:** Create file `.github/workflows/snake.yml` and paste:
+
+```yaml
 name: Generate Snake
 
 on:
@@ -153,7 +153,6 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
-
     steps:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
@@ -170,11 +169,21 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**Step 3:** Go to **Actions tab** → click **Generate Snake** → **Run workflow** ✅
+
+</details>
+
+---
+
+## 🤝 Let's Connect!
 
 <div align="center">
 
-<!-- After setting up GitHub Actions, replace the src below with your actual snake gif URL -->
-<img src="https://raw.githubusercontent.com/sulavg50-ux/sulavg50-ux/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+[![GitHub](https://img.shields.io/badge/GitHub-sulavg50--ux-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sulavg50-ux)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sulav%20Giri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulav-giri-1700993b3)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sulavg50-ux)
 
 </div>
 
@@ -188,47 +197,3 @@ jobs:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
-
-<!--
-=======================================================
-🐍 SNAKE ANIMATION SETUP (Optional but looks amazing!)
-=======================================================
-
-1. Create file: .github/workflows/snake.yml
-2. Paste this content:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-=======================================================
--->
