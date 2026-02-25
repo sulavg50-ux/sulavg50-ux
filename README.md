@@ -100,10 +100,10 @@ me.say_hi()
 
 <div align="center">
 
-| 🐍 Python | 🌐 Django | 📊 Data Science |
-|:---------:|:---------:|:---------------:|
-| ![](https://geps.dev/progress/65) | ![](https://geps.dev/progress/40) | ![](https://geps.dev/progress/30) |
-| Core + OOP | REST APIs | Pandas & NumPy |
+| 🐍 Python | 🌐 Django | 📊 Data Science | 🌐 HTML | 🎨 CSS | ⚡ JavaScript |
+|:---------:|:---------:|:---------------:|:-------:|:------:|:-------------:|
+| ![](https://geps.dev/progress/65) | ![](https://geps.dev/progress/40) | ![](https://geps.dev/progress/30) | ![](https://geps.dev/progress/70) | ![](https://geps.dev/progress/60) | ![](https://geps.dev/progress/45) |
+| Core + OOP | REST APIs | Pandas & NumPy | Structure | Styling | DOM & Logic |
 
 </div>
 
