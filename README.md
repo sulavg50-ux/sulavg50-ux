@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/sulavg50-ux">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=500&lines=print(%22Hello%2C+World!%22);Learning+Python+%F0%9F%90%8D;Building+with+Django+%F0%9F%8C%90;Exploring+Data+Science+%F0%9F%93%8A;Keep+Growing+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=500&lines=print(%22Hello%2C+World!%22);Learning+Python+%F0%9F%90%8D;Building+with+Django+%F0%9F%8C%90;Exploring+Data+Science+%F0%9F%93%8A;Learning+Java+%E2%98%95;Learning+PHP+%F0%9F%90%98;Keep+Growing+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,7 +26,10 @@ class LearningDeveloper:
         self.learning = [
             "Python 🐍",
             "Django 🌐",
-            "Data Science 📊"
+            "Data Science 📊",
+            "Java ☕",
+            "PHP 🐘",
+            "HTML/CSS/JS 🌐"
         ]
         self.goals    = "Keep Growing 🚀"
     
@@ -56,7 +59,7 @@ me.say_hi()
 
 ### Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js&perline=5&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,java,php&perline=7&theme=dark" />
 </p>
 
 ### Tools & Platforms
@@ -100,10 +103,10 @@ me.say_hi()
 
 <div align="center">
 
-| 🐍 Python | 🌐 Django | 📊 Data Science | 🌐 HTML | 🎨 CSS | ⚡ JavaScript |
-|:---------:|:---------:|:---------------:|:-------:|:------:|:-------------:|
-| ![](https://geps.dev/progress/65) | ![](https://geps.dev/progress/40) | ![](https://geps.dev/progress/30) | ![](https://geps.dev/progress/70) | ![](https://geps.dev/progress/60) | ![](https://geps.dev/progress/45) |
-| Core + OOP | REST APIs | Pandas & NumPy | Structure | Styling | DOM & Logic |
+| 🐍 Python | 🌐 Django | 📊 Data Science | 🌐 HTML | 🎨 CSS | ⚡ JavaScript | ☕ Java | 🐘 PHP |
+|:---------:|:---------:|:---------------:|:-------:|:------:|:-------------:|:------:|:------:|
+| ![](https://geps.dev/progress/65) | ![](https://geps.dev/progress/40) | ![](https://geps.dev/progress/30) | ![](https://geps.dev/progress/70) | ![](https://geps.dev/progress/60) | ![](https://geps.dev/progress/45) | ![](https://geps.dev/progress/35) | ![](https://geps.dev/progress/30) |
+| Core + OOP | REST APIs | Pandas & NumPy | Structure | Styling | DOM & Logic | OOP | Backend |
 
 </div>
 
