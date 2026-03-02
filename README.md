@@ -1,175 +1,72 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sulav%20Giri&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Learning%20Developer%20%7C%20Python%20%7C%20Django%20%7C%20Data%20Science&descAlignY=60&descSize=18&descColor=a78bfa"/>
+<!-- 3D Animated Header (Mind-Blowing) -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,12,18,24&height=300&section=header&text=Sulav%20Giri&fontSize=80&animation=twinkling&fontAlignY=38&desc=Learning%20Developer%20%E2%9A%A1%20Future%20Builder%20%E2%9C%A8&descAlignY=55&fontColor=ddd"/>
 
-<!-- Typing Animation -->
-<a href="https://github.com/sulavg50-ux">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=print(%22Hello%2C+World!%22+%F0%9F%91%8B);Learning+Python+%F0%9F%90%8D;Building+with+Django+%F0%9F%8C%90;Exploring+Data+Science+%F0%9F%93%8A;Learning+Java+%E2%98%95;Learning+PHP+%F0%9F%90%98;Building+with+HTML+%2F+CSS+%2F+JS+%F0%9F%8C%9F;Keep+Growing+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<!-- Live Typing + Glitch Effect -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&pause=800&color=A78BFA&center=true&vCenter=true&random=true&width=800&lines=%F0%9F%94%B4+sudo+apt+install+skills;Building+the+future...;print(%22Leveling+up...%22);Django+%E2%9E%9C+FastAPI+%E2%9E%9C+AI;Debugging+with+print()%F0%9F%98%88;Still+works+in+2025.;Keep+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
-</div>
+<!-- Holographic Visitor Badge + Live Clock -->
+<img src="https://hit.dreamsoftware.eu.org/?user=sulavg50-ux&style=holo&label=Visitors+in+my+dimension" />
+<img src="https://img.shields.io/badge/Dimension-Nepal%20%F0%9F%87%B3%F0%9F%87%B5-8b5cf6?style=flat&logo=google-earth&logoColor=white" />
+<img src="https://img.shields.io/endpoint?url=https://api.daily.dev/devcard/sulavg50-ux&style=flat" />
 
----
+<br/>
 
-<!-- About Me Section -->
+<!-- LEVEL SYSTEM + XP BAR (Ultra Rare) -->
+<h2>⚡ Level 21 · Rising Legend</h2>
+<img src="https://api.vaunt.dev/v1/github/entities/sulavg50-ux/abilities?format=svg&limit=10" height="200"/>
+<br/>
+<img src="https://progress-bar.dev/84/?title=XP%20to%20Level%2025&width=300&color=a78bfa" />
+
+<!-- RPG-STYLE QUEST BOARD -->
+### 🎯 2025 Quest Log
 <table>
-<tr>
-<td width="50%" valign="top">
-
-## 🌙 About Me
-
-```python
-class LearningDeveloper:
-    def __init__(self):
-        self.name     = "Sulav Giri"
-        self.role     = "Learning Developer"
-        self.location = "Nepal 🇳🇵"
-        self.learning = [
-            "Python 🐍",
-            "Django 🌐",
-            "Data Science 📊",
-            "Java ☕",
-            "PHP 🐘",
-            "HTML/CSS/JS 🌟"
-        ]
-        self.goals    = "Keep Growing 🚀"
-        self.fun_fact = "I debug with print() 😄"
-
-    def say_hi(self):
-        print("Thanks for visiting! 👋")
-
-me = LearningDeveloper()
-me.say_hi()
-```
-
-</td>
-<td width="50%" valign="top">
-
-## 💻 Keep Coding!
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm1iM2ZtdWloNzZpODg0YmFoYTM3NmNkcWoxYmhoOTd6MDgza2p4MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cnhpl4IeYgU7MCBdV2/giphy.gif" width="100%" />
-
-</td>
-</tr>
+  <tr><td>✅</td><td>Deploy 10+ Full-Stack Apps</td><td><b>12/10</b> Overachieved</td></tr>
+  <tr><td>🔥</td><td>Build AI-Powered Personal OS</td><td>87% (Launching Soon™)</td></tr>
+  <tr><td>⚔️</td><td>Contribute to Django or FastAPI</td><td>First PR in review</td></tr>
+  <tr><td>🌟</td><td>Launch First SaaS (Secret Project)</td><td>Classified 🔐</td></tr>
 </table>
 
----
+<!-- LIVE CODING AURA (Real-time Commit Heatmap) -->
+### 🌌 My Coding Aura (Live)
+<img src="https://moe-counter--sulavg50-ux.moecounter.glitch.me/get/@sulav?theme=rule34" width="700"/>
 
-## 🛠️ Tech Stack
+<!-- BRAIN DUMP – Auto-updated SVG of latest learnings -->
+### 🧠 Latest Neuron Connections (Auto-updated daily)
+<img src="https://github.com/sulavg50-ux/sulavg50-ux/blob/output/braindump.svg?raw=true" width="800"/>
 
-<div align="center">
+<!-- TERMINAL + NEOFETCH (Pure Art) -->
+<pre>
+<span style="color:#a78bfa;font-weight:bold">┌──(</span><span style="color:#8b5cf6">sulav㉿nepal</span><span style="color:#a78bfa">-)[-]</span>
+<span style="color:#a78bfa">└─╼</span> <span style="color:#ff79c6">whoami</span>
+<span style="color:#f1fa8c">Learning Developer | Print() Sorcerer | Future Founder</span>
 
-### Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,java,php&perline=7&theme=dark" />
-</p>
+       .         .       .          .         .           .
+   .     .    .      .        .        .       .     .
+        .      .   .      .        .      .        .        .
+ .   .      .     .      .   .        .       .      .   .
+     .    .     .    .        .     .     .      .       .
+  .     .     .    .      .       .     .    .      .     .
+     .     .   .     .  .      .     .     .    .      .
+  .     .   .    .     .    .      .    .     .    .     .
+     .    .    .    .    .    .  .    .    .    .    .   .
+  .    .    .    .    .    .    .    .    .    .    .    .
+<span style="color:#a78bfa">      OS:</span> Learning OS v5.0 (Nepal Edition)
+<span style="color:#a78bfa">      Shell:</span> Zsh + Starship + Oh-My-Posh
+<span style="color:#a78bfa">      Editor:</span> VS Code (with Catppuccin Mocha)
+<span style="color:#a78bfa">      Superpower:</span> Debugging with print() statements
+<span style="color:#a78bfa">      Current Quest:</span> Become Unstoppable
+</pre>
 
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postgresql&perline=5&theme=dark" />
-</p>
-
-### Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy&perline=5&theme=dark" />
-</p>
-
-</div>
-
----
-
-## 🎮 Developer RPG Card — My Coding Level
-
-> *Every developer is on a quest. Here's mine.*
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║              ⚔️  SULAV GIRI  —  THE CODE APPRENTICE  ⚔️       ║
-╠══════════════════════════════════════════════════════════════╣
-║  CLASS   :  Full Stack Learner 🧙                            ║
-║  ORIGIN  :  Nepal 🇳🇵                                         ║
-║  QUEST   :  Master the Art of Code 📜                        ║
-╠══════════════════════════════════════════════════════════════╣
-║  SKILLS                                                      ║
-║                                                              ║
-║  🐍 Python      ████████████░░░░░░░░  LVL 6  [Apprentice]   ║
-║  🌐 Django      ████████░░░░░░░░░░░░  LVL 4  [Novice]       ║
-║  🌐 HTML/CSS    █████████████░░░░░░░  LVL 7  [Adept]        ║
-║  ⚡ JavaScript  ██████████░░░░░░░░░░  LVL 5  [Apprentice]   ║
-║  ☕ Java        ███████░░░░░░░░░░░░░  LVL 3  [Beginner]     ║
-║  🐘 PHP         ██████░░░░░░░░░░░░░░  LVL 3  [Beginner]     ║
-║  📊 DataSci     █████░░░░░░░░░░░░░░░  LVL 2  [Explorer]     ║
-╠══════════════════════════════════════════════════════════════╣
-║  TOTAL XP  :  ██████████░░░░░  68% to next level 🔥          ║
-║  ACHIEVEMENT:  "First Commit" 🏅 "Bug Slayer" 🐛 "Builder" 🏗 ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 🎯 Current Mission Board
-
-> *What I'm actively building & learning right now*
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  📌 ACTIVE QUESTS                                           │
-├─────────────────────────────────────────────────────────────┤
-│  🔨 Building  →  Personal Django project                    │
-│  📖 Reading   →  Python for Data Analysis                   │
-│  🧪 Practicing→  LeetCode (Easy level 😅)                   │
-│  🎯 Goal      →  First deployed web app by Q2 2025          │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 😂 Random Dev Joke — Refreshes Every Visit!
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke" />
-</div>
-
-> *Reload the page for a new joke — because every developer needs a laugh 😄*
-
----
-
-## 💬 Dev Quote That Hits Different
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-## 📅 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sulavg50-ux&theme=tokyo-night&hide_border=true&area=true&area_color=a78bfa&line=a78bfa&point=ffffff" width="100%"/>
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-sulavg50--ux-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sulavg50-ux)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sulav%20Giri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulav-giri-1700993b3)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sulavg50-ux)
-
-</div>
-
----
-
-<div align="center">
-
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=sulavg50-ux&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-</div>
+<!-- CURRENTLY BREWING (Mad Scientist Lab) -->
+### ⚗️ Currently Brewing in the Lab
+```yaml
+Project:       Nexus OS (Personal AI Dashboard)
+Stack:         Next.js 15 + Django + PostgreSQL + Redis + Ollama
+Deployment:    Docker + Coolify + Cloudflare Tunnel
+AI Features:   Auto README updater, mood-based playlist, commit predictor
+Status:        ██████████ 96% (Final boss: CSS)
+Launch Date:   When it's ready™ (very soon)
