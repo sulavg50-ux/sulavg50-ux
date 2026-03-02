@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Learning%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Django%20%7C%20Data%20Science&descAlignY=60&descSize=20&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sulav%20Giri&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Learning%20Developer%20%7C%20Python%20%7C%20Django%20%7C%20Data%20Science&descAlignY=60&descSize=18&descColor=a78bfa"/>
 
 <!-- Typing Animation -->
 <a href="https://github.com/sulavg50-ux">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=500&lines=print(%22Hello%2C+World!%22);Learning+Python+%F0%9F%90%8D;Building+with+Django+%F0%9F%8C%90;Exploring+Data+Science+%F0%9F%93%8A;Learning+Java+%E2%98%95;Learning+PHP+%F0%9F%90%98;Keep+Growing+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=print(%22Hello%2C+World!%22+%F0%9F%91%8B);Learning+Python+%F0%9F%90%8D;Building+with+Django+%F0%9F%8C%90;Exploring+Data+Science+%F0%9F%93%8A;Learning+Java+%E2%98%95;Learning+PHP+%F0%9F%90%98;Building+with+HTML+%2F+CSS+%2F+JS+%F0%9F%8C%9F;Keep+Growing+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,16 +23,18 @@ class LearningDeveloper:
     def __init__(self):
         self.name     = "Sulav Giri"
         self.role     = "Learning Developer"
+        self.location = "Nepal 🇳🇵"
         self.learning = [
             "Python 🐍",
             "Django 🌐",
             "Data Science 📊",
             "Java ☕",
             "PHP 🐘",
-            "HTML/CSS/JS 🌐"
+            "HTML/CSS/JS 🌟"
         ]
         self.goals    = "Keep Growing 🚀"
-    
+        self.fun_fact = "I debug with print() 😄"
+
     def say_hi(self):
         print("Thanks for visiting! 👋")
 
@@ -99,16 +101,33 @@ me.say_hi()
 
 ---
 
-## 🌱 What I'm Learning
+## 🌱 Currently Learning
 
 <div align="center">
 
-| 🐍 Python | 🌐 Django | 📊 Data Science | 🌐 HTML | 🎨 CSS | ⚡ JavaScript | ☕ Java | 🐘 PHP |
-|:---------:|:---------:|:---------------:|:-------:|:------:|:-------------:|:------:|:------:|
-| ![](https://geps.dev/progress/65) | ![](https://geps.dev/progress/40) | ![](https://geps.dev/progress/30) | ![](https://geps.dev/progress/70) | ![](https://geps.dev/progress/60) | ![](https://geps.dev/progress/45) | ![](https://geps.dev/progress/35) | ![](https://geps.dev/progress/30) |
-| Core + OOP | REST APIs | Pandas & NumPy | Structure | Styling | DOM & Logic | OOP | Backend |
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulavg50-ux&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
 
 </div>
+
+> 💡 *This chart updates automatically every time I push new code — always 100% real!*
+
+---
+
+## 💡 Today I Learned (TIL) — My Dev Journal
+
+> *A unique section updated with every new thing I learn. Scroll through my learning journey!*
+
+| 📅 Date | 🧠 What I Learned | 🔖 Tag |
+|--------|-------------------|--------|
+| 2025-01 | Django REST Framework basics | `#django` `#api` |
+| 2025-01 | Python list comprehensions | `#python` |
+| 2025-02 | CSS Flexbox & Grid layouts | `#css` |
+| 2025-02 | JavaScript DOM manipulation | `#js` |
+| 2025-02 | Java OOP — classes & objects | `#java` |
+| 2025-03 | PHP forms & sessions | `#php` |
+| 2025-03 | Pandas DataFrames | `#datascience` |
+
+> 📝 *Update this table every time you learn something new — it shows your growth over time!*
 
 ---
 
@@ -129,7 +148,6 @@ me.say_hi()
     <img alt="github-snake" src="https://raw.githubusercontent.com/sulavg50-ux/sulavg50-ux/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
-
 
 ---
 
