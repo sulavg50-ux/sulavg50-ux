@@ -1,51 +1,95 @@
+<!-- SULAV GIRI — GitHub Profile README -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sulav%20Giri&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Learning%20Developer%20%7C%20Python%20%7C%20Django%20%7C%20Data%20Science&descAlignY=58&descSize=20&descColor=a78bfa"/>
-
-<a href="https://github.com/sulavg50-ux">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=620&lines=print(%22Hello%2C+World!%22+%F0%9F%91%8B);Learning+Python+%F0%9F%90%8D;Building+with+Django+%F0%9F%8C%90;Exploring+Data+Science+%F0%9F%93%8A;Learning+Java+%E2%98%95;Learning+PHP+%F0%9F%90%98;Building+with+HTML+%2F+CSS+%2F+JS+%F0%9F%8C%9F;Keep+Growing+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/><br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:0d1117,60:1a0533,100:0f0c29&height=300&section=header&text=SULAV%20GIRI&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&stroke=a78bfa&strokeWidth=2&desc=%3C%20Learning%20Developer%20%2F%3E&descAlignY=62&descSize=22&descColor=a78bfa&rotate=0"/>
 
 </div>
 
+<div align="center">
+
+```
+██████████████████████████████████████████████████████████████
+█                                                            █
+█   > Initializing profile...                               █
+█   > Loading Sulav Giri...                      [DONE ✓]   █
+█   > Location: Nepal 🇳🇵                         [DONE ✓]   █
+█   > Status: Building. Learning. Growing.       [DONE ✓]   █
+█   > Warning: This developer is dangerous 🔥    [DONE ✓]   █
+█                                                            █
+██████████████████████████████████████████████████████████████
+```
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/sulavg50-ux">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=650&height=45&lines=%24+whoami+%E2%86%92+Learning+Developer+%F0%9F%9A%80;%24+python+hello.py+%E2%86%92+Hello%2C+World!+%F0%9F%91%8B;%24+git+commit+-m+%22Keep+Growing+Every+Day%22;%24+sudo+apt+install+new-skills+--upgrade;%24+python+manage.py+runserver+%F0%9F%8C%90;%24+java+Main.java+%E2%98%95+%7C+Compiling...;%24+php+artisan+serve+%F0%9F%90%98+%7C+Running!;%24+npm+run+build+%F0%9F%8C%9F+%7C+Success!" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br/>
+
 ---
 
-## 🌙 About Me
+## `$ cat about_me.py`
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
 ```python
-class LearningDeveloper:
-    def __init__(self):
-        self.name     = "Sulav Giri"
-        self.role     = "Learning Developer"
-        self.location = "Nepal 🇳🇵"
-        self.learning = [
-            "Python 🐍",
-            "Django 🌐",
-            "Data Science 📊",
-            "Java ☕",
-            "PHP 🐘",
-            "HTML / CSS / JS 🌟"
-        ]
-        self.goals    = "Keep Growing 🚀"
-        self.fun_fact = "I debug with print() 😄"
+#!/usr/bin/env python3
+# ──────────────────────────────────────────
+#   Developer Profile  |  Sulav Giri
+#   Location           |  Nepal 🇳🇵
+#   Status             |  Always Learning 🔥
+# ──────────────────────────────────────────
+
+class SulavGiri:
+
+    name     = "Sulav Giri"
+    role     = "Learning Developer"
+    origin   = "Nepal 🇳🇵"
+    pronouns = "he / him"
+
+    stack = {
+        "languages" : ["Python","Java","PHP","JS"],
+        "web"       : ["HTML","CSS","Django"],
+        "data"      : ["Pandas","NumPy","TensorFlow"],
+        "tools"     : ["Git","VSCode","Linux","PostgreSQL"],
+    }
+
+    currently = [
+        "🔨 Building Django projects",
+        "📊 Exploring Data Science",
+        "🧠 Sharpening problem solving",
+        "🌱 Growing every single day",
+    ]
+
+    motto = "Every expert was once a beginner."
 
     def say_hi(self):
-        print("Thanks for visiting! 👋")
+        print(f"Hey! I'm {self.name} 👋")
+        print(f"Welcome to my GitHub universe 🌌")
 
-me = LearningDeveloper()
-me.say_hi()
+SulavGiri().say_hi()
+
+# OUTPUT ──────────────────────────────────
+# Hey! I'm Sulav Giri 👋
+# Welcome to my GitHub universe 🌌
 ```
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="42%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm1iM2ZtdWloNzZpODg0YmFoYTM3NmNkcWoxYmhoOTd6MDgza2p4MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cnhpl4IeYgU7MCBdV2/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm1iM2ZtdWloNzZpODg0YmFoYTM3NmNkcWoxYmhoOTd6MDgza2p4MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cnhpl4IeYgU7MCBdV2/giphy.gif" width="100%" style="border-radius:12px"/>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sulavg50-ux&color=a78bfa&style=for-the-badge&label=VISITORS)
 
 </td>
 </tr>
@@ -53,138 +97,130 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tech Stack
+## `$ ls ./tech-stack/`
 
 <div align="center">
 
-### Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,java,php&perline=7&theme=dark" />
-</p>
+**`// Languages & Frameworks`**
 
-### Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy,opencv&perline=6&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,django,html,css,js,java,php&perline=7&theme=dark" />
 
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postgresql,mysql&perline=6&theme=dark" />
-</p>
+**`// Data Science`**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy,opencv&perline=6&theme=dark" />
+
+**`// Tools & Platforms`**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postgresql,mysql&perline=6&theme=dark" />
 
 </div>
 
 ---
 
-## 🎮 Developer RPG Card
+## `$ ./skill_tree.sh --visualize`
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║           ⚔️   SULAV GIRI  —  THE CODE APPRENTICE   ⚔️           ║
-╠══════════════════════════════════════════════════════════════════╣
-║  CLASS    :  Full Stack Learner 🧙                               ║
-║  ORIGIN   :  Nepal 🇳🇵                                            ║
-║  QUEST    :  Master the Art of Code 📜                           ║
-╠══════════════════════════════════════════════════════════════════╣
-║  SKILLS                                                          ║
-║                                                                  ║
-║  🌐 HTML/CSS    █████████████░░░░░░░  LVL 7  [Adept]            ║
-║  🐍 Python      ████████████░░░░░░░░  LVL 6  [Apprentice]       ║
-║  ⚡ JavaScript  ██████████░░░░░░░░░░  LVL 5  [Apprentice]       ║
-║  🌐 Django      ████████░░░░░░░░░░░░  LVL 4  [Novice]           ║
-║  ☕ Java        ███████░░░░░░░░░░░░░  LVL 3  [Beginner]         ║
-║  🐘 PHP         ██████░░░░░░░░░░░░░░  LVL 3  [Beginner]         ║
-║  📊 DataSci     █████░░░░░░░░░░░░░░░  LVL 2  [Explorer]         ║
-╠══════════════════════════════════════════════════════════════════╣
-║  XP     : ████████████░░░░  68% to next level 🔥                 ║
-║  BADGES : 🏅 First Commit  🐛 Bug Slayer  🏗️ Builder  🌱 Learner ║
-╚══════════════════════════════════════════════════════════════════╝
+                        🌳 SULAV'S SKILL TREE
+                               │
+          ┌────────────────────┼────────────────────┐
+          │                    │                    │
+       🌐 WEB              🐍 BACKEND           📊 DATA
+          │                    │                    │
+    ┌─────┴─────┐         ┌────┴────┐          ┌───┴───┐
+   HTML        CSS      Python   Django      Pandas  NumPy
+   ████████    ███████  ███████  █████       █████   ████
+   [Adept]    [Adept]  [Inter] [Novice]    [Expl.] [Expl.]
+          │
+    ┌─────┴──────┐
+    JS          Java & PHP
+   █████        ████
+  [Learn.]     [Begin.]
 ```
 
 ---
 
-## 🎯 Mission Board — What I'm Working On
+## `$ git log --my-journey`
 
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│  📌  ACTIVE QUESTS                               STATUS          │
-├──────────────────────────────────────────────────────────────────┤
-│  🔨  Building a Django web project             [ IN PROGRESS ]   │
-│  📖  Learning Python for Data Analysis         [ IN PROGRESS ]   │
-│  🧪  Practicing problem solving (LeetCode)     [ IN PROGRESS ]   │
-│  🎯  Deploy my first web app                   [ COMING SOON ]   │
-│  🌐  Build a full-stack PHP project            [ PLANNED    ]    │
-└──────────────────────────────────────────────────────────────────┘
+commit f7a3c91  ← NOW
+│   feat: Exploring Data Science with Pandas 📊
+│   feat: Learning Django REST APIs 🌐
+│
+commit 3b8e210
+│   feat: Built first PHP web form 🐘
+│   feat: Java OOP - Classes & Inheritance ☕
+│
+commit 9d1f445
+│   feat: CSS Flexbox & Grid mastered 🎨
+│   feat: JavaScript DOM manipulation ⚡
+│
+commit 1a2b3c4  ← THE BEGINNING
+    init: Hello World in Python 🐍
+    init: First HTML page ever created 🌐
 ```
+
+> *Every commit is a step forward. Every bug is a lesson.* 💡
 
 ---
 
-## 📊 GitHub Stats
+## `$ github-stats --user sulavg50-ux`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sulavg50-ux&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulavg50-ux&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sulavg50-ux&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulavg50-ux&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sulavg50-ux&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sulavg50-ux&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa" />
 
 </div>
 
 ---
 
-## 📝 Today I Learned — Dev Journal
-
-| 📅 Date | 🧠 What I Learned | 🔖 Tag |
-|--------|-------------------|--------|
-| 2025-03-12 | Django REST serializers & viewsets | `#django` `#api` |
-| 2025-03-11 | Python list comprehensions | `#python` |
-| 2025-03-10 | CSS Grid vs Flexbox | `#css` |
-| 2025-03-09 | JavaScript event delegation | `#js` |
-| 2025-03-08 | Java OOP inheritance | `#java` |
-| 2025-03-07 | PHP sessions & forms | `#php` |
-| 2025-03-06 | Pandas DataFrame merging | `#datascience` |
-
----
-
-## 😂 Random Dev Joke — New Every Visit!
+## `$ crontab -e  # daily joke generator`
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke" />
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&qColor=%23a78bfa&aColor=%23ffffff" alt="Dev Joke — refreshes on every visit 😄"/>
+
+*🔄 This joke auto-refreshes every time you visit — come back tomorrow for a new one!*
+
 </div>
 
 ---
 
-## 💬 Dev Quote of the Day
+## `$ curl wttr.in/my-motivation`
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## `$ watch -n 1 contribution-graph`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sulavg50-ux&theme=tokyo-night&hide_border=true&area=true&area_color=a78bfa&line=a78bfa&point=ffffff" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sulavg50-ux&theme=tokyo-night&hide_border=true&area=true&area_color=a78bfa&line=a78bfa&point=ffffff&bg_color=0d1117" width="100%"/>
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## `$ snake --eat-contributions`
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sulavg50-ux/sulavg50-ux/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sulavg50-ux/sulavg50-ux/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/sulavg50-ux/sulavg50-ux/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sulavg50-ux/sulavg50-ux/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sulavg50-ux/sulavg50-ux/output/github-contribution-grid-snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/sulavg50-ux/sulavg50-ux/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## `$ ping connect.sulav --all`
 
 <div align="center">
 
@@ -199,13 +235,18 @@ me.say_hi()
 
 <div align="center">
 
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=sulavg50-ux&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   Thanks for scrolling all the way down! 🙏             ║
+║   You just visited the profile of a developer           ║
+║   who refuses to stop learning. 🔥                      ║
+║                                                          ║
+║   ⭐ Drop a star if this profile made you smile!        ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-<br/>
-
-⭐ *If you like my profile, drop a star and let's connect!* ⭐
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=Keep+Building+%F0%9F%9A%80&fontSize=24&fontColor=a78bfa&animation=fadeIn&fontAlignY=70"/>
 
 </div>
