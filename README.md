@@ -1,178 +1,98 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Sulav Giri
-
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:312e81&height=280&section=header&text=SULAV%20GIRI&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Data%20Science%20%7C%20Machine%20Learning%20Explorer&descAlignY=58&descSize=20&descColor=c4b5fd"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sulav%20Giri&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=Python%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Machine%20Learning&descAlignY=75&descSize=16&descColor=a78bfa" width="100%"/>
+</div>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Python+Developer+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Exploring+Data+Science+%26+Machine+Learning+%F0%9F%93%8A;Building+Projects+with+Python+%F0%9F%90%8D;Learning+AI+one+step+at+a+time+%F0%9F%A7%A0;NumPy+%7C+Pandas+%7C+Visualization+%7C+Analytics"/>
-
+<div align="center">
+  <a href="https://github.com/sulavg50-ux"><img src="https://img.shields.io/badge/GitHub-sulavg50--ux-181717?style=flat-square&logo=github"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sulav-giri-1700993b3"><img src="https://img.shields.io/badge/LinkedIn-Sulav%20Giri-0A66C2?style=flat-square&logo=linkedin"/></a>
+  &nbsp;
+  <a href="mailto:sulavgiri@gmail.com"><img src="https://img.shields.io/badge/Email-sulavgiri@gmail.com-EA4335?style=flat-square&logo=gmail"/></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=sulavg50-ux&style=flat-square&color=7c3aed&label=Profile+Views"/>
 </div>
 
 ---
 
-# 🧠 About Me
+## `> whoami`
 
 ```python
-class SulavGiri:
-
-    def __init__(self):
-        self.role = "Aspiring Data Scientist"
-        self.language = "Python 🐍"
-        self.location = "Kathmandu, Nepal 🇳🇵"
-
-        self.current_focus = [
-            "Data Science",
-            "Machine Learning",
-            "Python Development",
-            "Data Analysis"
-        ]
-
-        self.learning = [
-            "NumPy",
-            "Pandas",
-            "Matplotlib",
-            "Scikit-Learn",
-            "Django"
-        ]
-
-        self.goal = "Turning data into meaningful insights."
-
-    def mindset(self):
-        return "Learn → Build → Improve → Repeat 🚀"
-
-me = SulavGiri()
-print(me.mindset())
+{
+  "name"     : "Sulav Giri",
+  "role"     : "Aspiring Data Scientist",
+  "location" : "Kathmandu, Nepal 🇳🇵",
+  "focus"    : ["Data Science", "Machine Learning", "Python"],
+  "learning" : ["NumPy", "Pandas", "Scikit-Learn", "Django"],
+  "mantra"   : "Learn → Build → Improve → Repeat 🚀"
+}
 ```
 
 ---
 
-# ⚡ Tech Stack
+## `> tech_stack`
 
-<div align="center">
+**Languages**
 
-### 🐍 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python,java,js,php,html,css&theme=dark"/>
+**Data & ML**
 
-### 📊 Data Science & AI
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
+**Tools**
 
-<br/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-### 🛠 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,postgresql&theme=dark"/>
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
-# 📈 Current Journey
+## `> progress`
 
-```text
-[██████████░░░░░░░░] Python Development
-[████████░░░░░░░░░░] Data Analysis
-[██████░░░░░░░░░░░░] Machine Learning
-[█████░░░░░░░░░░░░░] Deep Learning
+```
+Python Development    ████████████░░░░░░░░  60%
+Data Analysis         ██████████░░░░░░░░░░  50%
+Machine Learning      ████████░░░░░░░░░░░░  40%
+Deep Learning         ██████░░░░░░░░░░░░░░  30%
 ```
 
-* 📊 Practicing Data Analysis using Python
-* 🧠 Learning Machine Learning fundamentals
-* 🔨 Building mini projects with Django & Python
-* 🚀 Improving problem-solving every day
-
 ---
 
-# 📌 Featured Interests
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 📊 Data Science
-
-Learning data cleaning, visualization, and analytics.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🤖 Machine Learning
-
-Exploring models, prediction systems, and AI basics.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🌐 Python Development
-
-Building backend and automation projects.
-
-</td>
-</tr>
-</table>
-
----
-
-# 📊 GitHub Analytics
+## `> github_stats`
 
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sulavg50-ux&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulavg50-ux&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sulavg50-ux&theme=tokyonight&hide_border=true&background=0d1117"/>
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sulavg50-ux&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulavg50-ux&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 </div>
 
----
-
-# 📉 Contribution Graph
-
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sulavg50-ux&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/sulavg50-ux">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sulav-giri-1700993b3">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sulavgiri@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <img src="https://streak-stats.demolab.com?user=sulavg50-ux&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sulavg50-ux&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed" width="95%"/>
+</div>
 
-### 💭 “Data is the new fuel, and Python is the engine.”
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:1e1b4b,100:0f172a&height=120&section=footer"/>
+<div align="center">
+  <sub>🐍 <em>"Data is the new fuel, and Python is the engine."</em></sub>
 
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 </div>
