@@ -14,22 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=sulavg50-ux&style=flat-square&color=7c3aed&label=Profile+Views"/>
 </div>
 
----
 
-## `> whoami`
-
-```python
-{
-  "name"     : "Sulav Giri",
-  "role"     : "Aspiring Data Scientist",
-  "location" : "Kathmandu, Nepal 🇳🇵",
-  "focus"    : ["Data Science", "Machine Learning", "Python"],
-  "learning" : ["NumPy", "Pandas", "Scikit-Learn", "Django"],
-  "mantra"   : "Learn → Build → Improve → Repeat 🚀"
-}
-```
-
----
 
 ## `> tech_stack`
 
